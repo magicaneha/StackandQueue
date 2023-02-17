@@ -1,1 +1,1 @@
-# StackandQueue
+#implementation of Stack using deque
